@@ -1,0 +1,41 @@
+.fondo{
+    background-color: #f0f2f5;
+}
+
+.widthbutton{
+    width: 100%;
+}
+
+.colorbutton{
+    background-color: #42b72a;
+    color: #ffff;
+}
+
+.spacinglogo{
+    padding:10% 8% 0;
+}
+.spacingform{
+    margin-top: 10%;
+}
+
+.footer{
+    height: 150px;
+    padding: 1% 5%;
+    
+}
+
+.centertext{
+    text-align: center;
+}
+
+.footerlinks{
+    list-style: none;
+    font-size: 12px;
+    color: #a09f9f;
+}
+.footerlinks li{
+    padding: 0 5px;
+}
+
+
+ 
